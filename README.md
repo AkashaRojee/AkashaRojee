@@ -12,13 +12,7 @@
 
 <center>
 
-<a href="https://www.twitter.com/AkashaRojee" target="_blank">
-  <img src="https://github.com/AkashaRojee/AkashaRojee/raw/main/twitter.png">
-</a>
-
-<a href="mailto:Akasha.Rojee@gmail.com">
-  <img src="https://github.com/AkashaRojee/AkashaRojee/raw/main/mail.png">
-</a>
+<a href="https://www.twitter.com/AkashaRojee" target="_blank"><img src="https://github.com/AkashaRojee/AkashaRojee/raw/main/twitter.png"></a> <a href="mailto:Akasha.Rojee@gmail.com"><img src="https://github.com/AkashaRojee/AkashaRojee/raw/main/mail.png"></a>
 
 </center>
 
