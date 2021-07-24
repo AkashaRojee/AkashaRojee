@@ -10,9 +10,17 @@
 - <a href="https://www.akasharojee.codes/2021/07/18/list-drag-and-drop-tutorial.html" target="_blank">List drag-and-drop tutorial</a>
 - <a href="https://www.akasharojee.codes/2021/06/20/intro-to-nodejs-and-npm.html" target="_blank">Intro to Node.js and npm</a>
 
-<p align="center">
-  <a href="https://www.twitter.com/AkashaRojee" target="_blank">![](./twitter.png)</a> <a href="mailto:Akasha.Rojee@gmail.com">![](./mail.png)</a>
-</p>
+<center>
+
+<a href="https://www.twitter.com/AkashaRojee" target="_blank">
+  <img src="https://github.com/AkashaRojee/AkashaRojee/raw/main/twitter.png">
+</a>
+
+<a href="mailto:Akasha.Rojee@gmail.com">
+  <img src="https://github.com/AkashaRojee/AkashaRojee/raw/main/mail.png">
+</a>
+
+</center>
 
 <!--
 **AkashaRojee/AkashaRojee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
