@@ -6,13 +6,19 @@
 
 🧑‍🏫 I'm passionate about coding and education - I review developer student projects at Microverse
 
-:detective: I help people solve technical problems on <a href="https://stackoverflow.com/users/13279016/akasha?tab=answers&sort=newest" target="_blank">StackOverflow</a>
+:octocat: Open-source contributor to ESLint
 
-:book: I love to nerd through documentation and write technical articles to help others learn
+:detective: Helping people solve technical problems on <a href="https://stackoverflow.com/users/13279016/akasha?tab=answers&sort=newest" target="_blank">StackOverflow</a>
+
+:book: I ❤️ to nerd through documentation and write technical articles to help others learn
 
 :eyeglasses: Latest blog posts:
 - <a href="https://www.akasharojee.codes/2021/07/18/list-drag-and-drop-tutorial.html" target="_blank">List drag-and-drop tutorial</a>
 - <a href="https://www.akasharojee.codes/2021/06/20/intro-to-nodejs-and-npm.html" target="_blank">Intro to Node.js and npm</a>
+
+🎤 Spoke at the Mauritius Software Craftsmanship Community's Developers Conference about 2D Game Development Using JavaScript and Phaser and received 50+ attendees at my session
+
+👥 Helped to organise Front-End Code Camp (by Front-End Dev Mauritius community), which received 100+ participants over 1 day. Volunteered as trainer for freeCodeCamp and NodeSchool workshops
 
 <center>
 
