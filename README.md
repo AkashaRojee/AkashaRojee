@@ -1,6 +1,6 @@
-![](./banner.gif)
+![](./gh-banner.gif)
 
-:computer: Working mainly with JavaScript
+:computer: Working mainly with JavaScript, React & Redux
 
 :ghost: Tinkering with Node.js, npm and Jekyll
 
