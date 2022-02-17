@@ -1,10 +1,12 @@
 ![](./gh-banner.gif)
 
-:computer: Working mainly with JavaScript, React & Redux
+:computer: Working mainly with JavaScript, React and Redux
 
 :ghost: Tinkering with Node.js, npm and Jekyll
 
-:book: I love to nerd through documentation and write technical articles to help others learn.
+:detective: I help people solve technical problems on <a href="https://stackoverflow.com/users/13279016/akasha?tab=answers&sort=newest" target="_blank">StackOverflow</a>
+
+:book: I love to nerd through documentation and write technical articles to help others learn
 
 :eyeglasses: Latest blog posts:
 - <a href="https://www.akasharojee.codes/2021/07/18/list-drag-and-drop-tutorial.html" target="_blank">List drag-and-drop tutorial</a>
