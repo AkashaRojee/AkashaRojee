@@ -1,6 +1,6 @@
 ![](./gh-banner.gif)
 
-:computer: Working mainly with JavaScript, React and Redux
+:computer: Currently working with JavaScript, React and Redux
 
 :ghost: Tinkering with Node.js, npm and Jekyll
 
